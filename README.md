@@ -1,2 +1,3 @@
-# find_same_img
-game find the same img
+# find_same_number
+game find the same number
+use html and js
