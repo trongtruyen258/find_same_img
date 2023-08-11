@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 0 auto;
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.item {
+  padding: 3px;
+  font-size: 30px;
+  width: 60px;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-right: 15px;
+  cursor: default;
+  text-align: center;
+  background: #8bff1a;
+}
+.active {
+  background: red;
+}
+.num_same {
+  display: none;
+}
